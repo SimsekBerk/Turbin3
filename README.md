@@ -15,5 +15,7 @@ A keypair is generated using the private key from the dev-wallet.json file, and 
 
 # TX's: 
 airdrop tx: https://explorer.solana.com/tx/eDVhsMn8oL99AqRQzq2Rxks9TT7A7gfhzbgqw28KoSFmCPDdKy2mn7KshsPuh5gSYesqCXfWovygQb9rx1LhxRd?cluster=devnet
+
 transfer tx: https://explorer.solana.com/tx/5LiD8zQZbgXWgcs2sxJyNaxJ6tsnUbi6msx2bjaWFBLsM8iH8Ku3dwyCF4GhfTegobDY38K2f5tPeytFmfmjY6Hw?cluster=devnet
+
 enroll tx: https://explorer.solana.com/tx/5dDfTqj5Uygj3BfA9uZtLCwM5hzcujGyq2ZYLE1cz5QzQ1cGPr5E8t4wEKxwioBiudcyKFaF5EshcH3sczZUULjk?cluster=devnet
